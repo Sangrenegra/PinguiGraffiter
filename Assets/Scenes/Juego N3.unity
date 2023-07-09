@@ -259,6 +259,7 @@ GameObject:
   m_Component:
   - component: {fileID: 45073196}
   - component: {fileID: 45073197}
+  - component: {fileID: 45073198}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (17)
   m_TagString: Untagged
@@ -333,6 +334,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &45073198
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 45073195}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &78048423
 GameObject:
   m_ObjectHideFlags: 0
@@ -343,6 +370,7 @@ GameObject:
   m_Component:
   - component: {fileID: 78048424}
   - component: {fileID: 78048425}
+  - component: {fileID: 78048426}
   m_Layer: 3
   m_Name: pngwing.com (12)_4 (1)
   m_TagString: Untagged
@@ -417,6 +445,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &78048426
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 78048423}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0.03, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.15}
+    newSize: {x: 1.18, y: 1.15}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.15}
+  m_EdgeRadius: 0
 --- !u!1 &89538383
 GameObject:
   m_ObjectHideFlags: 0
@@ -427,6 +481,7 @@ GameObject:
   m_Component:
   - component: {fileID: 89538385}
   - component: {fileID: 89538384}
+  - component: {fileID: 89538386}
   m_Layer: 3
   m_Name: pngwing.com (12)_3 (1)
   m_TagString: Untagged
@@ -504,6 +559,32 @@ Transform:
   m_Father: {fileID: 156294326}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &89538386
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 89538383}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0.01, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.17, y: 1.2}
+    newSize: {x: 1.17, y: 1.2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.17, y: 1.2}
+  m_EdgeRadius: 0
 --- !u!1 &110350980
 GameObject:
   m_ObjectHideFlags: 0
@@ -598,6 +679,7 @@ GameObject:
   m_Component:
   - component: {fileID: 156294326}
   - component: {fileID: 156294325}
+  - component: {fileID: 156294327}
   m_Layer: 3
   m_Name: Piso
   m_TagString: Untagged
@@ -712,6 +794,32 @@ Transform:
   m_Father: {fileID: 850298154}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &156294327
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 156294324}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.053816393}
+  m_SpriteTilingProperty:
+    border: {x: 0.01, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.17, y: 1.2}
+    newSize: {x: 1.17, y: 1.2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.17, y: 1.0923673}
+  m_EdgeRadius: 0
 --- !u!1 &158004728
 GameObject:
   m_ObjectHideFlags: 0
@@ -722,6 +830,7 @@ GameObject:
   m_Component:
   - component: {fileID: 158004729}
   - component: {fileID: 158004730}
+  - component: {fileID: 158004731}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (23)
   m_TagString: Untagged
@@ -796,6 +905,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &158004731
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 158004728}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &200446430
 GameObject:
   m_ObjectHideFlags: 0
@@ -806,6 +941,7 @@ GameObject:
   m_Component:
   - component: {fileID: 200446431}
   - component: {fileID: 200446432}
+  - component: {fileID: 200446433}
   m_Layer: 3
   m_Name: pngwing.com (12)_3 (4)
   m_TagString: Untagged
@@ -880,6 +1016,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &200446433
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 200446430}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0.01, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.17, y: 1.2}
+    newSize: {x: 1.17, y: 1.2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.17, y: 1.2}
+  m_EdgeRadius: 0
 --- !u!1 &208968271
 GameObject:
   m_ObjectHideFlags: 0
@@ -890,6 +1052,7 @@ GameObject:
   m_Component:
   - component: {fileID: 208968272}
   - component: {fileID: 208968273}
+  - component: {fileID: 208968274}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (28)
   m_TagString: Untagged
@@ -964,6 +1127,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &208968274
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 208968271}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &210471534
 GameObject:
   m_ObjectHideFlags: 0
@@ -1100,6 +1289,7 @@ GameObject:
   m_Component:
   - component: {fileID: 213585202}
   - component: {fileID: 213585203}
+  - component: {fileID: 213585204}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (34)
   m_TagString: Untagged
@@ -1174,6 +1364,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &213585204
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 213585201}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &219355821
 GameObject:
   m_ObjectHideFlags: 0
@@ -1273,6 +1489,7 @@ GameObject:
   m_Component:
   - component: {fileID: 259264308}
   - component: {fileID: 259264309}
+  - component: {fileID: 259264310}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (9)
   m_TagString: Untagged
@@ -1347,6 +1564,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &259264310
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 259264307}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &281030636
 GameObject:
   m_ObjectHideFlags: 0
@@ -1357,6 +1600,7 @@ GameObject:
   m_Component:
   - component: {fileID: 281030637}
   - component: {fileID: 281030638}
+  - component: {fileID: 281030639}
   m_Layer: 3
   m_Name: pngwing.com (12)_4
   m_TagString: Untagged
@@ -1431,6 +1675,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &281030639
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 281030636}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0.03, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.15}
+    newSize: {x: 1.18, y: 1.15}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.15}
+  m_EdgeRadius: 0
 --- !u!1 &318845416
 GameObject:
   m_ObjectHideFlags: 0
@@ -1441,6 +1711,7 @@ GameObject:
   m_Component:
   - component: {fileID: 318845417}
   - component: {fileID: 318845418}
+  - component: {fileID: 318845419}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (18)
   m_TagString: Untagged
@@ -1515,6 +1786,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &318845419
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 318845416}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &368561106
 GameObject:
   m_ObjectHideFlags: 0
@@ -1887,8 +2184,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 454533126}
   m_LocalRotation: {x: -0, y: -0, z: -0.0025394391, w: -0.99999684}
-  m_LocalPosition: {x: 65.6783, y: 5.134, z: 0}
-  m_LocalScale: {x: 2.2582147, y: 2.2239451, z: 1}
+  m_LocalPosition: {x: 65.6783, y: 5.3619, z: 0}
+  m_LocalScale: {x: 2.2582147, y: 2.9324942, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 156294326}
@@ -1917,7 +2214,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.011551797, y: -0.08524072}
@@ -1995,6 +2292,7 @@ GameObject:
   m_Component:
   - component: {fileID: 462421593}
   - component: {fileID: 462421594}
+  - component: {fileID: 462421595}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (10)
   m_TagString: Untagged
@@ -2069,6 +2367,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &462421595
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 462421592}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &470106481
 GameObject:
   m_ObjectHideFlags: 0
@@ -2169,6 +2493,7 @@ GameObject:
   m_Component:
   - component: {fileID: 571748398}
   - component: {fileID: 571748399}
+  - component: {fileID: 571748400}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (8)
   m_TagString: Untagged
@@ -2243,6 +2568,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &571748400
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 571748397}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &581914921
 GameObject:
   m_ObjectHideFlags: 0
@@ -2253,6 +2604,7 @@ GameObject:
   m_Component:
   - component: {fileID: 581914922}
   - component: {fileID: 581914923}
+  - component: {fileID: 581914924}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (11)
   m_TagString: Untagged
@@ -2327,6 +2679,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &581914924
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 581914921}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &592881798
 GameObject:
   m_ObjectHideFlags: 0
@@ -2414,6 +2792,7 @@ GameObject:
   m_Component:
   - component: {fileID: 638675844}
   - component: {fileID: 638675845}
+  - component: {fileID: 638675846}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (12)
   m_TagString: Untagged
@@ -2488,6 +2867,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &638675846
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 638675843}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &700611548
 GameObject:
   m_ObjectHideFlags: 0
@@ -2523,8 +2928,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -291, y: 128.14}
-  m_SizeDelta: {x: 81.506, y: 14.944}
+  m_AnchoredPosition: {x: -289.966, y: 106.834}
+  m_SizeDelta: {x: 79.439, y: 16.215}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &700611550
 MonoBehaviour:
@@ -2609,7 +3014,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: -0.00002287628, w: 0}
+  m_margin: {x: -0.000000016775633, y: -3.1007628, z: -1.0336189, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -2633,6 +3038,7 @@ GameObject:
   m_Component:
   - component: {fileID: 721248067}
   - component: {fileID: 721248068}
+  - component: {fileID: 721248069}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (1)
   m_TagString: Untagged
@@ -2707,6 +3113,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &721248069
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 721248066}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &750272591
 GameObject:
   m_ObjectHideFlags: 0
@@ -2717,6 +3149,7 @@ GameObject:
   m_Component:
   - component: {fileID: 750272592}
   - component: {fileID: 750272593}
+  - component: {fileID: 750272594}
   m_Layer: 3
   m_Name: pngwing.com (12)_5
   m_TagString: Untagged
@@ -2791,6 +3224,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &750272594
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 750272591}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.05149135}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.0570171}
+  m_EdgeRadius: 0
 --- !u!1 &768025863
 GameObject:
   m_ObjectHideFlags: 0
@@ -2801,6 +3260,7 @@ GameObject:
   m_Component:
   - component: {fileID: 768025864}
   - component: {fileID: 768025865}
+  - component: {fileID: 768025866}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (13)
   m_TagString: Untagged
@@ -2875,6 +3335,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &768025866
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 768025863}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &784503621
 GameObject:
   m_ObjectHideFlags: 0
@@ -2885,6 +3371,7 @@ GameObject:
   m_Component:
   - component: {fileID: 784503622}
   - component: {fileID: 784503623}
+  - component: {fileID: 784503624}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (30)
   m_TagString: Untagged
@@ -2959,6 +3446,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &784503624
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 784503621}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &787931954
 GameObject:
   m_ObjectHideFlags: 0
@@ -2969,6 +3482,7 @@ GameObject:
   m_Component:
   - component: {fileID: 787931955}
   - component: {fileID: 787931956}
+  - component: {fileID: 787931957}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (22)
   m_TagString: Untagged
@@ -3043,6 +3557,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &787931957
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 787931954}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &809380543
 GameObject:
   m_ObjectHideFlags: 0
@@ -3179,6 +3719,7 @@ GameObject:
   m_Component:
   - component: {fileID: 834595291}
   - component: {fileID: 834595292}
+  - component: {fileID: 834595293}
   m_Layer: 3
   m_Name: pngwing.com (12)_5
   m_TagString: Untagged
@@ -3253,6 +3794,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &834595293
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 834595290}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &845565639
 GameObject:
   m_ObjectHideFlags: 0
@@ -3475,6 +4042,7 @@ GameObject:
   m_Component:
   - component: {fileID: 859186961}
   - component: {fileID: 859186962}
+  - component: {fileID: 859186963}
   m_Layer: 3
   m_Name: pngwing.com (12)_4
   m_TagString: Untagged
@@ -3549,6 +4117,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &859186963
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 859186960}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0.03, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.15}
+    newSize: {x: 1.18, y: 1.15}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.15}
+  m_EdgeRadius: 0
 --- !u!1 &864798300
 GameObject:
   m_ObjectHideFlags: 0
@@ -3559,6 +4153,7 @@ GameObject:
   m_Component:
   - component: {fileID: 864798301}
   - component: {fileID: 864798302}
+  - component: {fileID: 864798303}
   m_Layer: 0
   m_Name: pngwing.com (2)_5
   m_TagString: Untagged
@@ -3633,6 +4228,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &864798303
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 864798300}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.26, y: 1.27}
+    newSize: {x: 1.26, y: 1.27}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.26, y: 1.27}
+  m_EdgeRadius: 0
 --- !u!1 &888233501
 GameObject:
   m_ObjectHideFlags: 0
@@ -3643,6 +4264,7 @@ GameObject:
   m_Component:
   - component: {fileID: 888233503}
   - component: {fileID: 888233502}
+  - component: {fileID: 888233504}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (4)
   m_TagString: Untagged
@@ -3717,6 +4339,32 @@ Transform:
   m_Father: {fileID: 156294326}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &888233504
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 888233501}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.034327596}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.0913448}
+  m_EdgeRadius: 0
 --- !u!1 &915375106
 GameObject:
   m_ObjectHideFlags: 0
@@ -3862,6 +4510,7 @@ GameObject:
   m_Component:
   - component: {fileID: 930052662}
   - component: {fileID: 930052663}
+  - component: {fileID: 930052664}
   m_Layer: 0
   m_Name: pngwing.com (2)_5
   m_TagString: Untagged
@@ -3936,6 +4585,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &930052664
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 930052661}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.04418531}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.26, y: 1.27}
+    newSize: {x: 1.26, y: 1.27}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.26, y: 1.1816294}
+  m_EdgeRadius: 0
 --- !u!1 &1011753645
 GameObject:
   m_ObjectHideFlags: 0
@@ -3953,7 +4628,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1011753646
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4026,6 +4701,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1028907140}
   - component: {fileID: 1028907141}
+  - component: {fileID: 1028907142}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (19)
   m_TagString: Untagged
@@ -4100,6 +4776,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1028907142
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1028907139}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &1058045343
 GameObject:
   m_ObjectHideFlags: 0
@@ -4602,6 +5304,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1125533015}
   - component: {fileID: 1125533016}
+  - component: {fileID: 1125533017}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (33)
   m_TagString: Untagged
@@ -4676,6 +5379,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1125533017
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1125533014}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &1165658108
 GameObject:
   m_ObjectHideFlags: 0
@@ -4812,6 +5541,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1166792953}
   - component: {fileID: 1166792952}
+  - component: {fileID: 1166792954}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (3)
   m_TagString: Untagged
@@ -4886,6 +5616,32 @@ Transform:
   m_Father: {fileID: 156294326}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1166792954
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1166792951}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.017163754}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.1256723}
+  m_EdgeRadius: 0
 --- !u!1 &1192519513
 GameObject:
   m_ObjectHideFlags: 0
@@ -4896,6 +5652,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1192519515}
   - component: {fileID: 1192519514}
+  - component: {fileID: 1192519516}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (1)
   m_TagString: Untagged
@@ -4970,6 +5727,32 @@ Transform:
   m_Father: {fileID: 156294326}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 1.415}
+--- !u!61 &1192519516
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1192519513}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &1204968250
 GameObject:
   m_ObjectHideFlags: 0
@@ -4980,6 +5763,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1204968251}
   - component: {fileID: 1204968252}
+  - component: {fileID: 1204968253}
   m_Layer: 0
   m_Name: pngwing.com (2)_5
   m_TagString: Untagged
@@ -5054,6 +5838,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1204968253
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1204968250}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.26, y: 1.27}
+    newSize: {x: 1.26, y: 1.27}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.26, y: 1.27}
+  m_EdgeRadius: 0
 --- !u!114 &1220919758
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5076,6 +5886,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1223869487}
   - component: {fileID: 1223869488}
+  - component: {fileID: 1223869489}
   m_Layer: 3
   m_Name: pngwing.com (12)_4
   m_TagString: Untagged
@@ -5150,6 +5961,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1223869489
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1223869486}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.03580597}
+  m_SpriteTilingProperty:
+    border: {x: 0.03, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.15}
+    newSize: {x: 1.18, y: 1.15}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.078388}
+  m_EdgeRadius: 0
 --- !u!1 &1228561617
 GameObject:
   m_ObjectHideFlags: 0
@@ -5160,6 +5997,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1228561618}
   - component: {fileID: 1228561619}
+  - component: {fileID: 1228561620}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (24)
   m_TagString: Untagged
@@ -5234,6 +6072,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1228561620
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1228561617}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &1255216952
 GameObject:
   m_ObjectHideFlags: 0
@@ -5328,6 +6192,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1268380797}
   - component: {fileID: 1268380798}
+  - component: {fileID: 1268380799}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (15)
   m_TagString: Untagged
@@ -5402,6 +6267,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1268380799
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1268380796}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &1342662137
 GameObject:
   m_ObjectHideFlags: 0
@@ -5412,6 +6303,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1342662138}
   - component: {fileID: 1342662139}
+  - component: {fileID: 1342662140}
   m_Layer: 3
   m_Name: pngwing.com (12)_3 (2)
   m_TagString: Untagged
@@ -5490,6 +6382,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1342662140
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1342662137}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0.01, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.17, y: 1.2}
+    newSize: {x: 1.17, y: 1.2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.17, y: 1.2}
+  m_EdgeRadius: 0
 --- !u!1 &1359807126
 GameObject:
   m_ObjectHideFlags: 0
@@ -5500,6 +6418,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1359807127}
   - component: {fileID: 1359807128}
+  - component: {fileID: 1359807129}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (14)
   m_TagString: Untagged
@@ -5515,7 +6434,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1359807126}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 24.297327, y: 4.5343575, z: 0}
+  m_LocalPosition: {x: 24.297327, y: 4.5, z: 0}
   m_LocalScale: {x: 0.9943075, y: 1.0451534, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5574,6 +6493,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1359807129
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1359807126}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &1374679659
 GameObject:
   m_ObjectHideFlags: 0
@@ -5584,6 +6529,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1374679660}
   - component: {fileID: 1374679661}
+  - component: {fileID: 1374679662}
   m_Layer: 3
   m_Name: pngwing.com (12)_5
   m_TagString: Untagged
@@ -5658,6 +6604,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1374679662
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1374679659}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &1444209647
 GameObject:
   m_ObjectHideFlags: 0
@@ -5668,6 +6640,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1444209648}
   - component: {fileID: 1444209649}
+  - component: {fileID: 1444209650}
   m_Layer: 3
   m_Name: pngwing.com (12)_4
   m_TagString: Untagged
@@ -5742,6 +6715,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1444209650
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1444209647}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0.03, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.15}
+    newSize: {x: 1.18, y: 1.15}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.15}
+  m_EdgeRadius: 0
 --- !u!1 &1482941977
 GameObject:
   m_ObjectHideFlags: 0
@@ -5752,6 +6751,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1482941978}
   - component: {fileID: 1482941979}
+  - component: {fileID: 1482941980}
   m_Layer: 0
   m_Name: pngwing.com (2)_5 (1)
   m_TagString: Untagged
@@ -5826,6 +6826,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1482941980
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1482941977}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.26, y: 1.27}
+    newSize: {x: 1.26, y: 1.27}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.26, y: 1.27}
+  m_EdgeRadius: 0
 --- !u!114 &1489175014
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5957,6 +6983,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1495925212}
   - component: {fileID: 1495925213}
+  - component: {fileID: 1495925214}
   m_Layer: 3
   m_Name: pngwing.com (12)_3 (3)
   m_TagString: Untagged
@@ -6040,6 +7067,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1495925214
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1495925211}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0.01, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.17, y: 1.2}
+    newSize: {x: 1.17, y: 1.2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.17, y: 1.2}
+  m_EdgeRadius: 0
 --- !u!1 &1569151299
 GameObject:
   m_ObjectHideFlags: 0
@@ -6050,6 +7103,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1569151301}
   - component: {fileID: 1569151300}
+  - component: {fileID: 1569151302}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (5)
   m_TagString: Untagged
@@ -6124,6 +7178,19 @@ Transform:
   m_Father: {fileID: 156294326}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1569151302
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1569151299}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.1599998, z: 0.2}
+  m_Center: {x: -0.000000834465, y: 0.00000011920929, z: 0}
 --- !u!1 &1593957809
 GameObject:
   m_ObjectHideFlags: 0
@@ -6218,6 +7285,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1603227455}
   - component: {fileID: 1603227456}
+  - component: {fileID: 1603227457}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (29)
   m_TagString: Untagged
@@ -6292,6 +7360,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1603227457
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1603227454}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &1639191626
 GameObject:
   m_ObjectHideFlags: 0
@@ -6302,6 +7396,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1639191627}
   - component: {fileID: 1639191628}
+  - component: {fileID: 1639191629}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (25)
   m_TagString: Untagged
@@ -6376,6 +7471,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1639191629
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1639191626}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &1644958245
 GameObject:
   m_ObjectHideFlags: 0
@@ -6386,6 +7507,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1644958247}
   - component: {fileID: 1644958246}
+  - component: {fileID: 1644958248}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (2)
   m_TagString: Untagged
@@ -6460,6 +7582,32 @@ Transform:
   m_Father: {fileID: 156294326}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1644958248
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1644958245}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.034327596}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.0913448}
+  m_EdgeRadius: 0
 --- !u!1 &1652629227
 GameObject:
   m_ObjectHideFlags: 0
@@ -6470,6 +7618,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1652629228}
   - component: {fileID: 1652629229}
+  - component: {fileID: 1652629230}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (1)
   m_TagString: Untagged
@@ -6544,6 +7693,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1652629230
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1652629227}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &1657144086
 GameObject:
   m_ObjectHideFlags: 0
@@ -6757,6 +7932,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1705499299}
   - component: {fileID: 1705499300}
+  - component: {fileID: 1705499301}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (32)
   m_TagString: Untagged
@@ -6831,6 +8007,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1705499301
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1705499298}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &1726468132
 GameObject:
   m_ObjectHideFlags: 0
@@ -6918,6 +8120,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1746531404}
   - component: {fileID: 1746531405}
+  - component: {fileID: 1746531406}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (27)
   m_TagString: Untagged
@@ -6992,6 +8195,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1746531406
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1746531403}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &1758251805
 GameObject:
   m_ObjectHideFlags: 0
@@ -7039,6 +8268,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1761918990}
   - component: {fileID: 1761918991}
+  - component: {fileID: 1761918992}
   m_Layer: 5
   m_Name: Toggle (1)
   m_TagString: Untagged
@@ -7126,7 +8356,31 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1761918992}
+        m_TargetAssemblyTypeName: ControlGeneral, Assembly-CSharp
+        m_MethodName: StopScene
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   m_IsOn: 1
+--- !u!114 &1761918992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1761918989}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f770c72e0109744f9d60775f3efcd3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1768703530
 GameObject:
   m_ObjectHideFlags: 0
@@ -7137,6 +8391,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1768703531}
   - component: {fileID: 1768703532}
+  - component: {fileID: 1768703533}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (16)
   m_TagString: Untagged
@@ -7211,6 +8466,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1768703533
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1768703530}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &1779777726
 GameObject:
   m_ObjectHideFlags: 0
@@ -7221,6 +8502,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1779777727}
   - component: {fileID: 1779777728}
+  - component: {fileID: 1779777729}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (26)
   m_TagString: Untagged
@@ -7295,6 +8577,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1779777729
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1779777726}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &1814322475
 GameObject:
   m_ObjectHideFlags: 0
@@ -7394,6 +8702,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1836463480}
   - component: {fileID: 1836463479}
+  - component: {fileID: 1836463481}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (6)
   m_TagString: Untagged
@@ -7468,6 +8777,32 @@ Transform:
   m_Father: {fileID: 156294326}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1836463481
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1836463478}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &1841278110
 GameObject:
   m_ObjectHideFlags: 0
@@ -7478,6 +8813,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1841278111}
   - component: {fileID: 1841278112}
+  - component: {fileID: 1841278113}
   m_Layer: 0
   m_Name: pngwing.com (2)_5
   m_TagString: Untagged
@@ -7552,6 +8888,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1841278113
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1841278110}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.26, y: 1.27}
+    newSize: {x: 1.26, y: 1.27}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.26, y: 1.27}
+  m_EdgeRadius: 0
 --- !u!1 &1854063954
 GameObject:
   m_ObjectHideFlags: 0
@@ -7763,6 +9125,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1864479971}
   - component: {fileID: 1864479972}
+  - component: {fileID: 1864479973}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (21)
   m_TagString: Untagged
@@ -7837,6 +9200,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1864479973
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1864479970}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &1925683622
 GameObject:
   m_ObjectHideFlags: 0
@@ -7847,6 +9236,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1925683624}
   - component: {fileID: 1925683623}
+  - component: {fileID: 1925683625}
   m_Layer: 0
   m_Name: pngwing.com (2)_5 (1)
   m_TagString: Untagged
@@ -7921,6 +9311,32 @@ Transform:
   m_Father: {fileID: 156294326}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1925683625
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1925683622}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.26, y: 1.27}
+    newSize: {x: 1.26, y: 1.27}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.26, y: 1.27}
+  m_EdgeRadius: 0
 --- !u!1 &1942811110
 GameObject:
   m_ObjectHideFlags: 0
@@ -8057,6 +9473,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1952882948}
   - component: {fileID: 1952882949}
+  - component: {fileID: 1952882950}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (20)
   m_TagString: Untagged
@@ -8131,6 +9548,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1952882950
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1952882947}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &1956795571
 GameObject:
   m_ObjectHideFlags: 0
@@ -8141,6 +9584,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1956795572}
   - component: {fileID: 1956795573}
+  - component: {fileID: 1956795574}
   m_Layer: 3
   m_Name: pngwing.com (12)_5
   m_TagString: Untagged
@@ -8215,6 +9659,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1956795574
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1956795571}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &1974153406
 GameObject:
   m_ObjectHideFlags: 0
@@ -8396,6 +9866,7 @@ GameObject:
   - component: {fileID: 1990924274}
   - component: {fileID: 1990924273}
   - component: {fileID: 1990924272}
+  - component: {fileID: 1990924275}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -8480,6 +9951,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1990924275}
+        m_TargetAssemblyTypeName: ControlGeneral, Assembly-CSharp
+        m_MethodName: PlayScene
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1990924273
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8518,6 +10001,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1990924270}
   m_CullTransparentMesh: 1
+--- !u!114 &1990924275
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1990924270}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f770c72e0109744f9d60775f3efcd3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2021448819
 GameObject:
   m_ObjectHideFlags: 0
@@ -8757,6 +10252,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2053770080}
   - component: {fileID: 2053770081}
+  - component: {fileID: 2053770082}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (7)
   m_TagString: Untagged
@@ -8831,6 +10327,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &2053770082
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2053770079}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &2059717545
 GameObject:
   m_ObjectHideFlags: 0
@@ -8841,6 +10363,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2059717546}
   - component: {fileID: 2059717547}
+  - component: {fileID: 2059717548}
   m_Layer: 3
   m_Name: pngwing.com (12)_5 (31)
   m_TagString: Untagged
@@ -8915,6 +10438,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &2059717548
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2059717545}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 1.16}
+    newSize: {x: 1.18, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 1.16}
+  m_EdgeRadius: 0
 --- !u!1 &2135804410
 GameObject:
   m_ObjectHideFlags: 0
